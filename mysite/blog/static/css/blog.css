@@ -2,6 +2,7 @@ body {
     margin:0;
     padding:0;
     font-family:helvetica, sans-serif; 
+	background: #e7cc4b
 }
 
 a { 
@@ -19,7 +20,8 @@ h2 {
     font-weight:normal;
     margin:30px 0 0;
 }
-
+h2 a {color:#cc3535
+}
 #content { 
     float:left;
     width:60%;
